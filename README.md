@@ -1,15 +1,11 @@
-
 <p align="center">
   <img src="IMG_1419.png" width="100%" />
 </p>
 
-
 <h1 align="center">🥷💎 Tylesha A</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Agentic+AI+Security+Engineer;GRC+%7C+Vulnerability+Management;Cloud+Security+%7C+AI+Risk+Detection" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Agentic+AI+Security+Engineer;GRC+%7C+Vulnerability+Management;Cloud+Security+%7C+AI+Risk+Detection" />
 </p>
 
 <h3 align="center">☁️ Dark Mode. Pink Energy. Cyber Precision.</h3>
@@ -68,5 +64,6 @@ Consistency builds mastery. Mastery builds leverage.
 <p align="center">
   🌸 Built in the Cloud. Secured in Pink. 🥷💎
 </p>
+
 
 
