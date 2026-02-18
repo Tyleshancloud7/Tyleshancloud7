@@ -1,45 +1,67 @@
-# 🥷💎 Tylesha A – Cybersecurity & AI Risk Ninja
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+</p>
 
-[![Status](https://img.shields.io/badge/Status-Transitioning%20to%20Cybersecurity-blue)](https://github.com/tylesha) 
-[![Security+](https://img.shields.io/badge/CompTIA%20Security+-in%20progress-yellow)](https://www.comptia.org/certifications/security) 
-[![Portfolio](https://img.shields.io/badge/Projects-Hands-on%20Labs-green)](https://github.com/tylesha)  
-
----
-
-👋 **Hi, I’m Tylesha!**  
-I’m transitioning into **cybersecurity** with a focus on **GRC, Security Ops, Cloud Security, and AI Risk**. I build **hands-on projects** that connect **security frameworks to real-world risk**—all while preparing for **CompTIA Security+ (SY0-701)**.  
+<h1 align="center" style="color:white;">🥷💎 Tylesha A</h1>
+<h3 align="center">☁️ Agentic AI Security Engineer</h3>
+<h4 align="center">GRC | Vulnerability Management | Cloud Security</h4>
 
 ---
 
-## 🔐 **Skills**
-- Governance, Risk & Compliance: **NIST CSF, NIST 800-53, ISO 27001, SOC 2, HIPAA**  
-- AI Risk & Security: **Phishing Detection, Shadow AI Audits, HIPAA AI Compliance**  
-- Risk Assessment & Control Mapping 📊  
-- SIEM & Log Analysis 🖥️  
-- Cloud Security (AWS) ☁️  
-- Incident Response & Security Monitoring ⚡  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3" />
+</p>
+
+## 🌑 About
+
+Security-minded. Cloud-focused. AI-aware.
+
+I design and document real-world security simulations involving:
+
+- NIST 800-53 Control Mapping  
+- AI Risk & Shadow AI Audits  
+- Vulnerability Lifecycle Management  
+- Identity & Access Governance  
+- Cloud Risk Assessments  
+
+Consistency builds mastery. Mastery builds leverage.
 
 ---
 
-## 📂 **Projects – Real Skills, Real Risk**
-- **🤖 AI Phishing Detector** – Flagged phishing emails and scored high-risk threats.  
-- **🩺 HIPAA AI Compliance Simulation** – Tested AI handling PHI and implemented layered controls.  
-- **👻 Shadow AI Risk Audit** – Found unauthorized AI usage and designed mitigation strategies.  
-- **⚠️ Common Control Failures** – Mapped top security control failures across NIST, SOC 2, PCI DSS, HIPAA, FedRAMP, STIG.  
-- **🔑 IAM Lab (AWS)** – Built identity & access controls using least privilege + MFA.  
-- **🛡️ Vulnerability Management Lab** – Found, prioritized, and tracked remediation of vulnerabilities.  
-- **📈 NIST CSF 2.0 Security Assessment** – Gap assessment with actionable risk recommendations.  
+## 🖤 Cybersecurity Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-8B0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NIST-800--53-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GRC-Risk%20Engineering-4c1d95?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tenable-Vulnerability%20Management-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Azure-Security-0f172a?style=for-the-badge&logo=microsoftazure&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Python-Automation-0b3d91?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 **Goals**
-[![Goal](https://img.shields.io/badge/Goal-Pass%20Security+-brightgreen)]()  
-[![Goal](https://img.shields.io/badge/Goal-Land%20GRC%20Analyst-blueviolet)]()  
-[![Goal](https://img.shields.io/badge/Goal-Build%20AI%20+%20Compliance%20Projects-orange)]()  
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tyleshancloud7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyleshancloud7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+</p>
 
 ---
 
-## 💡 Fun Fact
-> Shadow AI doesn’t hide under your desk… it hides in plain sight on Slack & Docs.  
-> That’s why **diamond ninja vigilance is required!** 🥷💎
+## 🧠 Current Focus
+
+- ☁️ Cloud Security Engineering Role  
+- 🔐 Security+ Certification  
+- 🤖 AI Risk Detection Projects  
+- 📉 Advanced Vulnerability Reporting  
+
+---
+
+<p align="center">
+  <i>☁️ Built in the Cloud. Secured in the Dark. 🥷💎</i>
+</p>
+
 
