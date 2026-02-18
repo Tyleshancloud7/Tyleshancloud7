@@ -26,7 +26,6 @@ I design and document real-world cybersecurity simulations involving:
 
 Consistency builds mastery. Mastery builds leverage.
 
----
 
 ## 💎 Cybersecurity Arsenal
 
