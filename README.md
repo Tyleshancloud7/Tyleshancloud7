@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="pink-cloud-banner.png" width="100%" />
+  <img src="IMG_1419.png" width="100%" />
 </p>
 
 
