@@ -44,9 +44,14 @@ Consistency builds mastery. Mastery builds leverage.
 
 ## 📊 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyleshancloud7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyleshancloud7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165"/>
+## 📊 Performance Metrics
+
+<p align="center" style="border: 4px solid #FF69B4; border-radius: 15px; padding: 10px; background-color: #0d1117; box-shadow: 0 0 20px #FF69B4;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tyleshancloud7&show_icons=true&count_private=true&theme=radical" height="165"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyleshancloud7&layout=compact&count_private=true&theme=radical" height="165"/>
 </p>
 
 ---
