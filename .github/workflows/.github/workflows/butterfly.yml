@@ -1,0 +1,48 @@
+name: Neon Butterfly Contribution Graph
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Neon Butterfly SVG
+        run: |
+          mkdir -p dist
+          cat << 'EOF' > dist/github-butterfly.svg
+          <svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+          <filter id="glow">
+          <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+          <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+          </filter>
+          </defs>
+
+          <rect width="100%" height="100%" fill="#080010"/>
+
+          <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="40" fill="#ff69b4" filter="url(#glow)">
+          🦋 Tylesha's Neon Contribution Graph 🦋
+          </text>
+
+          </svg>
+          EOF
+
+      - name: Commit SVG
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Generate butterfly graph" || echo "No changes"
+          git push
