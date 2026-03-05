@@ -1,0 +1,27 @@
+import fs from "fs";
+
+fs.mkdirSync("dist", { recursive: true });
+
+const svg = `
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+<style>
+text{
+fill:#ff69b4;
+font-size:40px;
+font-family:Arial;
+filter: drop-shadow(0 0 8px #ff69b4);
+}
+</style>
+
+<rect width="100%" height="100%" fill="#0a0014"/>
+
+<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+🦋 Neon Butterfly Graph 🦋
+</text>
+
+</svg>
+`;
+
+fs.writeFileSync("dist/github-butterfly.svg", svg);
+
+console.log("Butterfly SVG created");
