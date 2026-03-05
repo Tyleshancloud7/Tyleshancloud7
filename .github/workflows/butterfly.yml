@@ -1,3 +1,35 @@
+      name: Generate Neon Butterfly Contribution SVG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"   # daily 2 AM UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: butterfly-svg
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate SVG
+        run: node scripts/generate-butterfly.mjs
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
@@ -6,7 +38,6 @@
           git add dist/*.svg
           git commit -m "chore: update neon butterfly svg" || exit 0
 
-          # Pull latest changes before pushing (prevents 'fetch first' rejection)
+          # sync before pushing so we never get "fetch first"
           git pull --rebase origin main
-
           git push
