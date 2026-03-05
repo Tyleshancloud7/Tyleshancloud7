@@ -1,9 +1,8 @@
       name: Generate Neon Butterfly Contribution SVG
 
 on:
+  on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 2 * * *"   # daily 2 AM UTC
 
 permissions:
   contents: write
