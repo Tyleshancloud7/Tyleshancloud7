@@ -1,33 +1,37 @@
-p align="center">
+<p align="center">
   <img src="IMG_1419.png" width="100%" />
 </p>
 
-<h1 align="center">🥷💎 Tylesha A</h1>
+<h1 align="center">🥷💎 Tylesha Alexander</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Agentic+AI+Security+Engineer;GRC+%7C+Vulnerability+Management;Cloud+Security+%7C+AI+Risk+Detection" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer+in+Training;GRC+%7C+Vulnerability+Management;Cloud+Security+%7C+AI+Risk+Detection;PowerShell+%7C+Security+Automation" />
 </p>
 
 <h3 align="center">☁️ Dark Mode. Pink Energy. Cyber Precision.</h3>
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
 Security-minded. Cloud-focused. AI-aware.
 
-I design and document real-world cybersecurity simulations involving:
+I build and document **real-world cybersecurity labs and remediation projects** focused on improving enterprise security posture.
 
-- NIST 800-53 Control Mapping  
-- AI Risk & Shadow AI Audits  
-- Vulnerability Lifecycle Management  
-- Identity & Access Governance  
-- Cloud Risk Assessments  
+My work centers around:
 
-Consistency builds mastery. Mastery builds leverage.
+- 🔐 **Windows STIG Remediation & Compliance Automation**
+- ☁️ **Azure Security & Microsoft Sentinel Monitoring**
+- 🛡 **Vulnerability Lifecycle Management (Tenable)**
+- 🧠 **AI Risk & Shadow AI Governance**
+- 📊 **NIST 800-53 Security Control Mapping**
+- 🔑 **Identity & Access Governance**
 
+I believe consistency builds mastery — and mastery builds leverage.
 
-## 💎 Cybersecurity Arsenal
+---
+
+# 💎 Cybersecurity Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF1493?style=for-the-badge&logo=comptia&logoColor=white" />
@@ -36,18 +40,80 @@ Consistency builds mastery. Mastery builds leverage.
   <img src="https://img.shields.io/badge/Tenable-Vulnerability%20Management-9D174D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft-Sentinel-EC4899?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-Security-F472B6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Automation-B83280?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyleshancloud7&layout=compact&count_private=true&theme=radical" height="165"/>
+  <img src="https://img.shields.io/badge/PowerShell-Security%20Automation-B83280?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Automation-DB2777?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🛠 Cybersecurity Projects
+
+### 🔐 STIG Remediation Automation
+- **Windows 11 STIG Remediation Scripts (PowerShell)**
+- Automated fixes for DISA STIG findings including:
+  - Event Log Configuration
+  - WinRM Authentication Hardening
+  - VBS Security Enforcement
+  - Group Policy Security Controls
+
+### ☁️ Cloud Security Labs
+- **Azure Sentinel Security Monitoring**
+- Threat visualization using KQL and world map analytics
+- Authentication failure analysis
+
+### 🛡 Vulnerability Management
+- **Tenable Vulnerability Scanning**
+- STIG compliance validation
+- Remediation verification using PowerShell automation
+
+### 🤖 AI Risk & Governance
+- AI risk detection simulations
+- Shadow AI audit concepts
+- NIST control mapping for emerging AI risks
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tyleshancloud7&show_icons=true&theme=radical" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyleshancloud7&layout=compact&count_private=true&theme=radical" height="165"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- ☁️ Transitioning into a **Cloud Security / Security Analyst role**
+- 🔐 Preparing for **CompTIA Security+**
+- 🧠 Building **AI Risk Detection Projects**
+- 📊 Expanding **Vulnerability Management Labs**
+- 🛡 Advanced **Microsoft Sentinel Threat Analysis**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/tyleshaa">
+<img src="https://img.shields.io/badge/LinkedIn-Tylesha%20Alexander-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tyleshancloud7">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-C026D3?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+🌸 Built in the Cloud. Secured in Pink. 🥷💎
+</p>
 
 
 
