@@ -105,7 +105,7 @@ I believe consistency builds mastery — and mastery builds leverage.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/tyleshaa">
+<a href="https://www.linkedin.com/in/tylesha-alexander-b71b48130?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
 <img src="https://img.shields.io/badge/LinkedIn-Tylesha%20Alexander-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
