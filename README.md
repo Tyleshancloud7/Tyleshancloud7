@@ -1,4 +1,4 @@
-<p align="center">
+p align="center">
   <img src="IMG_1419.png" width="100%" />
 </p>
 
@@ -48,18 +48,6 @@ Consistency builds mastery. Mastery builds leverage.
 ---
 
 ## 🎯 Current Focus
-
-- ☁️ Cloud Security Engineering Role  
-- 🔐 Security+ Certification  
-- 🤖 AI Risk Detection Projects  
-- 📊 Advanced Vulnerability Reporting  
-- 🛡️ Microsoft Sentinel Log Analysis  
-
----
-
-<p align="center">
-  🌸 Built in the Cloud. Secured in Pink. 🥷💎
-</p>
 
 
 
