@@ -55,21 +55,34 @@ I believe consistency builds mastery — and mastery builds leverage.
   - WinRM Authentication Hardening
   - VBS Security Enforcement
   - Group Policy Security Controls
+    
+    https://github.com/Tyleshancloud7/Nessus-agent-lab
+    https://github.com/Tyleshancloud7/STIG-WN11-AU-000500-.ps1
 
 ### ☁️ Cloud Security Labs
 - **Azure Sentinel Security Monitoring**
 - Threat visualization using KQL and world map analytics
 - Authentication failure analysis
+  
+https://github.com/Tyleshancloud7/azure-sentinel-global-threat-visualizations
 
 ### 🛡 Vulnerability Management
 - **Tenable Vulnerability Scanning**
 - STIG compliance validation
 - Remediation verification using PowerShell automation
+  
+https://github.com/Tyleshancloud7/Vulnerability-Management-Program
+https://github.com/Tyleshancloud7/Tyleshancloud7s
+  
 
 ### 🤖 AI Risk & Governance
 - AI risk detection simulations
 - Shadow AI audit concepts
 - NIST control mapping for emerging AI risks
+  
+https://github.com/Tyleshancloud7/Ghost-Employee-Risk-Audit-AC2
+https://github.com/Tyleshancloud7/ai-phishing-detector
+https://github.com/Tyleshancloud7/Shadow-AI-Risk-Audit-Ninja-Edition
 
 ---
 
