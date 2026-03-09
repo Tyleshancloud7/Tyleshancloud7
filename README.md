@@ -57,9 +57,12 @@ I believe consistency builds mastery — and mastery builds leverage.
 - Phantom Strike AI
 
 
-https://github.com/Tyleshancloud7/-Agentic-AI-SaaS-Report-PhantomStrike-AI-Autonomous-Red-Team-Simulation-Platform/blob/main/README.md  
+https://github.com/Tyleshancloud7/-Agentic-AI-SaaS-Report-PhantomStrike-AI-Autonomous-Red-Team-Simulation-Platform/blob/main/README.md
+
 https://github.com/Tyleshancloud7/Ghost-Employee-Risk-Audit-AC2
+
 https://github.com/Tyleshancloud7/ai-phishing-detector
+
 https://github.com/Tyleshancloud7/Shadow-AI-Risk-Audit-Ninja-Edition
 
 ### 🔐 STIG Remediation Automation
