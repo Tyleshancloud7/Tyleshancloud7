@@ -55,7 +55,7 @@ I believe consistency builds mastery — and mastery builds leverage.
 - Shadow AI audit concepts
 - NIST control mapping for emerging AI risks
 - Phantom Strike AI
-- Red_Team_Scaner
+- Angentic AI Red_Team_Scaner
 
 https://github.com/Tyleshancloud7/-Agentic-AI-SaaS-Report-PhantomStrike-AI-Autonomous-Red-Team-Simulation-Platform/blob/main/README.md
 
