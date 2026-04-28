@@ -5,7 +5,7 @@
 <h1 align="center">🥷💎 Tylesha Alexander</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer+in+Training;GRC+%7C+Vulnerability+Management;Cloud+Security+%7C+AI+Risk+Detection;PowerShell+%7C+Security+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Security%2B+Certified+ISSO+Candidate;GRC+%7C+RMF+%7C+NIST+800-53;ATO+Support+%7C+Risk+Management;Cloud+Security+%7C+AI+Risk+Governance;PowerShell+%7C+Security+Automation" />
 </p>
 
 <h3 align="center">☁️ Dark Mode. Pink Energy. Cyber Precision.</h3>
@@ -14,28 +14,64 @@
 
 # 🌸 About Me
 
-Security-minded. Cloud-focused. AI-aware.
+Security+ certified. Risk-driven. Mission-focused.
 
-I build and document **real-world cybersecurity labs and remediation projects** focused on improving enterprise security posture.
+I design and document **hands-on cybersecurity labs and real-world security projects** aligned with **federal security frameworks and compliance requirements**.
 
-My work centers around:
+My work supports core **ISSO and GRC functions**, with a focus on:
 
-- 🔐 **Windows STIG Remediation & Compliance Automation**
-- ☁️ **Azure Security & Microsoft Sentinel Monitoring**
-- 🛡 **Vulnerability Lifecycle Management (Tenable)**
-- 🧠 **AI Risk & Shadow AI Governance**
-- 📊 **NIST 800-53 Security Control Mapping**
-- 🔑 **Identity & Access Governance**
+- 🔐 NIST 800-53 Security Controls  
+- 🏛 Risk Management Framework (RMF)  
+- 📄 ATO Readiness & Compliance Documentation  
+- 🛡 Vulnerability Management & POA&M Tracking  
+- 📊 Security Control Assessment & Continuous Monitoring  
 
-I believe consistency builds mastery — and mastery builds leverage.
+I am actively building experience aligned with **DoD and federal cybersecurity environments**, focusing on protecting systems, supporting authorization processes, and reducing organizational risk.
+
+---
+
+# 🎓 Certifications
+
+- 🛡 **CompTIA Security+ (SY0-701) — Certified**
+
+---
+
+# 💼 ISSO / GRC Experience
+
+### 🛡 ISSO Analyst (Hands-On Lab Environment)  
+**IQ’s ISSO Lab | Simulated Enterprise Environment**
+
+- Conducted **risk assessments and security control evaluations** aligned with NIST 800-53  
+- Supported **RMF lifecycle activities** (Categorize → Select → Implement → Assess → Monitor)  
+- Contributed to **ATO readiness efforts** through control documentation and compliance artifacts  
+- Performed **POA&M management**, tracking vulnerabilities and remediation progress  
+- Analyzed system security posture and provided **risk-based recommendations**  
+- Applied **asset classification and data categorization** for impact analysis  
+- Drafted and reviewed **security policies and compliance documentation**  
+- Participated in **incident response scenarios** (identification, containment, reporting)  
+- Evaluated systems against **HIPAA, SOC 2, and OWASP standards**  
+- Strengthened hands-on understanding of **ISSO responsibilities and risk ownership**
+
+---
+
+# 🇺🇸 Federal Security Alignment
+
+- NIST RMF (Categorize → Select → Implement → Assess → Authorize → Monitor)  
+- NIST SP 800-53 Security Controls  
+- ATO (Authority to Operate) Support  
+- POA&M Management & Remediation Tracking  
+- STIG Compliance (DISA)  
+- Continuous Monitoring (ConMon)  
+- Least Privilege & Access Control (AC-2)  
 
 ---
 
 # 💎 Cybersecurity Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF1493?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B%20Certified-FF1493?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/NIST-800--53-DB2777?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RMF-ATO%20Framework-C026D3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GRC-Risk%20Engineering-C026D3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tenable-Vulnerability%20Management-9D174D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft-Sentinel-EC4899?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -48,101 +84,82 @@ I believe consistency builds mastery — and mastery builds leverage.
 
 # 🛠 Cybersecurity Projects
 
+## 🤖 AI Risk & Governance
+- Agentic AI SaaS Risk Report  
+- Autonomous Red Team Scanner  
+- Ghost Employee Risk Audit (AC-2)  
+- AI Phishing Detection Tool  
+- Shadow AI Risk Audit Framework  
 
+🔗  
+- https://github.com/Tyleshancloud7/-Agentic-AI-SaaS-Report-PhantomStrike-AI-Autonomous-Red-Team-Simulation-Platform/blob/main/README.md  
+- https://github.com/Tyleshancloud7/Red_Team_Scanner  
+- https://github.com/Tyleshancloud7/Ghost-Employee-Risk-Audit-AC2  
+- https://github.com/Tyleshancloud7/ai-phishing-detector  
+- https://github.com/Tyleshancloud7/Shadow-AI-Risk-Audit-Ninja-Edition  
 
-### 🤖 AI Risk & Governance
-- Agentic AI SaaS Report
-- Agentic AI Red Team Scanner
-- Ghost Employee Risk Audit AC2
-- AI Phishing Detector
-- Shadow AI Shadow AI Rish Audit
+---
 
-https://github.com/Tyleshancloud7/-Agentic-AI-SaaS-Report-PhantomStrike-AI-Autonomous-Red-Team-Simulation-Platform/blob/main/README.md
+## 🔐 STIG Remediation Automation
+- Windows 11 STIG Remediation (PowerShell)  
+- Automated remediation of DISA STIG findings:
+  - Event Log Configuration  
+  - WinRM Hardening  
+  - VBS Enforcement  
+  - Group Policy Security Controls  
 
-https://github.com/Tyleshancloud7/Red_Team_Scanner
+🔗  
+- https://github.com/Tyleshancloud7/Nessus-agent-lab  
+- https://github.com/Tyleshancloud7/STIG-WN11-AU-000500-.ps1  
 
-https://github.com/Tyleshancloud7/Ghost-Employee-Risk-Audit-AC2
+---
 
-https://github.com/Tyleshancloud7/ai-phishing-detector
+## ☁️ Cloud Security Labs
+- Azure Sentinel Security Monitoring  
+- Threat visualization using KQL and geolocation  
+- Authentication failure detection  
 
-https://github.com/Tyleshancloud7/Shadow-AI-Risk-Audit-Ninja-Edition
+🔗  
+- https://github.com/Tyleshancloud7/azure-sentinel-global-threat-visualizations  
 
-### 🔐 STIG Remediation Automation
-- **Windows 11 STIG Remediation Scripts (PowerShell)**
-- Automated fixes for DISA STIG findings including:
-  - Event Log Configuration
-  - WinRM Authentication Hardening
-  - VBS Security Enforcement
-  - Group Policy Security Controls
-    
- https://github.com/Tyleshancloud7/Nessus-agent-lab
- https://github.com/Tyleshancloud7/STIG-WN11-AU-000500-.ps1
+---
 
-### ☁️ Cloud Security Labs
-- **Azure Sentinel Security Monitoring**
-- Threat visualization using KQL and world map analytics
-- Authentication failure analysis
-  
-https://github.com/Tyleshancloud7/azure-sentinel-global-threat-visualizations
+## 🛡 Vulnerability Management
+- Tenable Vulnerability Management Program  
+- STIG compliance validation  
+- PowerShell-based remediation verification  
 
-### 🛡 Vulnerability Management
-- **Tenable Vulnerability Scanning**
-- STIG compliance validation
-- Remediation verification using PowerShell automation
-  
-https://github.com/Tyleshancloud7/Vulnerability-Management-Program
-https://github.com/Tyleshancloud7/Tyleshancloud7s
-  
+🔗  
+- https://github.com/Tyleshancloud7/Vulnerability-Management-Program  
+- https://github.com/Tyleshancloud7/Tyleshancloud7s  
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tyleshancloud7&show_icons=true&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyleshancloud7&layout=compact&count_private=true&theme=radical&hide_border=true" height="165"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=tyleshancloud7&theme=radical&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Tyleshancloud7&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tyleshancloud7&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-- ☁️ Transitioning into a **Cloud Security / Security Analyst role**
-- 🔐 Preparing for **CompTIA Security+**
-- 🧠 Building **AI Risk Detection Projects**
-- 📊 Expanding **Vulnerability Management Labs**
-- 🛡 Advanced **Microsoft Sentinel Threat Analysis**
+- Transitioning into an **ISSO / GRC Analyst role**
+- Building **ATO-ready documentation & RMF workflows**
+- Expanding **AI risk governance and automation projects**
+- Strengthening **enterprise vulnerability prioritization**
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Let’s Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/tylesha-alexander-b71b48130?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-<img src="https://img.shields.io/badge/LinkedIn-Tylesha%20Alexander-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tyleshancloud7">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-C026D3?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="mailto:tyleshashanee@icloud.com">
+    <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
----
-
-<p align="center">
-🌸 Built in the Cloud. Secured in Pink. 🥷💎
-</p>
-
 
 
